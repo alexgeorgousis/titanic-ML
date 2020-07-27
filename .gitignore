@@ -131,4 +131,4 @@ dmypy.json
 *.joblib
 
 # Submission files
-**/submission*.csv
+**/*submission*.csv
